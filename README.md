@@ -1,4 +1,4 @@
-# Future Planned Pre-release v.0.1.4 (February 2019)
+# Planned release v.0.1.4 (February 2019)
 https://github.com/JeremyMain/ngputop/releases
 
 # Project Wiki
